@@ -1,0 +1,2 @@
+過去のjpeglibを持ってきた。  
+FreePascalのjpgelibのソースの在処がわからんので暫定アップ

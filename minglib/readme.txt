@@ -1,0 +1,1 @@
+今はなきVirtualpascal用のminglibソースを上げておきます
